@@ -1,2 +1,0 @@
-# TellMeAJoke
-Created with CodeSandbox
